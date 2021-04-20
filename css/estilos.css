@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+#login .container #divLoginRow #divLoginCol #divLoginBox{
+    margin-top: 70px;
+    max-width: 600px;
+    height: 300px;
+    box-shadow: 2px 2px #343a40;
+    border-radius: 3px;
+} 
+
+.form-group{
+    padding: 0 20px 0 20px;
+}
+
+.btn{
+    background: mintcream;
+    margin: 10px 0 0 110px;
+}
